@@ -1,0 +1,7 @@
+{
+ "key_id": "AX4996CF65",
+ "issuer_id": "5ce572c5-4c80-4549-a383-9882e9ff3950",
+ "key": "-----BEGIN PRIVATE KEY-----\nMIGTAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBHkwdwIBAQQg8Rcl/Mtv70k1tjxG\npYw9ROfN5QW1YZW4Q1z5WqJYFeGgCgYIKoZIzj0DAQehRANCAATqnaL30Lm3jTPE\nIGUZLrsfqTn6nqrSZD26tFAfD1i7HkNq4WmdoFDinaDmuydnuMlMvDBEcHoUAxzy\nfWtSOYPw\n-----END PRIVATE KEY-----",
+ "duration": 1200,
+ "in_house": false
+}

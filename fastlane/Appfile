@@ -1,0 +1,8 @@
+app_identifier("media.graymountain.GithubActionsTest") # The bundle identifier of your app
+apple_id("graymountainmedia@gmail.com") # Your Apple email address
+
+itc_team_id("120147760") # App Store Connect Team ID
+team_id("3UK26G7UCA") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
